@@ -1,0 +1,11 @@
+{
+  "access": "private",
+  "evaluation": {
+    "handler": "python",
+    "time_limit": 15,
+    "memory_limit": 100000000
+  },
+  "programming_language": "python",
+  "author": "Marco Thijs <marco.thijs@gtil.be>",
+  "contact": "marco.thijs@gtil.be"
+}
