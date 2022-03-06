@@ -1,7 +1,7 @@
 {
   "access": "public",
   "evaluation": {
-    "handler": "python",
+    "handler": "python"
   },
   "programming_language": "python",
   "author": "Marco Thijs <marco.thijs@gtil.be>",
