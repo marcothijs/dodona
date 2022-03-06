@@ -15,6 +15,13 @@
     "memory_limit": 10000000,
     "network_enabled": true
   },
-  "labels": ["GTIL", "eenvoudige oefening"],
-  "contact": "Marco Thijs <marco.thijs@gtil.be>"
+  "labels": [
+    "GTIL",
+    "eenvoudige oefening"
+  ],
+  "contact": "Marco Thijs <marco.thijs@gtil.be>",
+  "internals": {
+    "token": "AEVji3rjFdpdkcsBzmZSM6vTeKpkAx74uIx3gNfEhzuv9zywXuRAQFrhwgiDiBhU",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
 }
