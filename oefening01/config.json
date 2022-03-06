@@ -9,7 +9,7 @@
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "pythia_judge": "output",
     "handler": "python",
     "time_limit": 10,
     "memory_limit": 10000000,
